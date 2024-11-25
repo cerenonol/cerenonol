@@ -1,11 +1,7 @@
-👀 I’m interested in data analytics, web3 technologies, and sustainable development projects.
+🚀 Hi there! 👋 I’m **Ceren ÖNOL**, a Mathematics and Computer Science student passionate about using data to drive impactful solutions. 
 
-🌱 I’m currently learning advanced Python programming, data visualization with Looker Studio, and blockchain concepts.
+🔍 I specialize in extracting meaningful insights from complex datasets, leveraging tools like **Python**, **Looker Studio**, and various machine learning techniques to solve real-world problems.
 
-💞️ I’m looking to collaborate on projects related to data-driven decision-making, blockchain applications, and AI-driven solutions.
+🌍 My projects, especially those focused on **sustainability**, demonstrate my commitment to creating solutions that benefit both people and the planet. 
 
-
-<!---
-cerenonol/cerenonol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 With a strong drive for continuous learning and growth, I aim to contribute to the future of technology by developing innovative and sustainable solutions. I’m excited to collaborate on projects that blend **data science**, **technology**, and **social good**.
